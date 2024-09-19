@@ -1,0 +1,3 @@
+If you are going to run this code at cmd directory, then you should change the file paths, which are written in the code, for openning the banner files.
+Just changed to "../banner/" and also change the checking part's path where needs to check the original file's key to "../check/file_key/".
+The fails, which needs regarding changes are: comparing_hash.go(Comparing_hash function), obrabotka.go(Reading_file function)
